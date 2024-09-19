@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "707584122594",
+    "project_id": "hamaramorzi",
+    "storage_bucket": "hamaramorzi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707584122594:android:616dc3310b70ef515c48bb",
+        "android_client_info": {
+          "package_name": "com.example.test_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "707584122594-6u435jo9r4og94vaq3v1ahgsmgbvamc2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.test_app",
+            "certificate_hash": "2fc60d4f19e00469077f5c4f4f47893b777d2cca"
+          }
+        },
+        {
+          "client_id": "707584122594-eo5ob0i9qmracr8qb69b1mhh0vkp5rq3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpFVL-qWBl9knXUd6fXsZr1gpEmDrTT0Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "707584122594-eo5ob0i9qmracr8qb69b1mhh0vkp5rq3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

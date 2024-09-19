@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "148367614400",
+    "project_id": "esyincome-c0463",
+    "storage_bucket": "esyincome-c0463.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148367614400:android:ade39da5ae59384f6d2825",
+        "android_client_info": {
+          "package_name": "com.esy.earn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "148367614400-mp78jmam3mgkoc0dfd9d4034oe63gllm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAv29uVwRar5Ux5nZI7O8YmbUtaTnl9nKo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "148367614400-mp78jmam3mgkoc0dfd9d4034oe63gllm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
