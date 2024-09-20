@@ -1,16 +1,12 @@
-# esyearn
+<h1>A Admob Project By Flutter</h1>
 
-A new Flutter project.
+This is a project that actually how can you Admob account your Flutter project earn Some Passive income.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+If you Try my this project . You can simply Download my project 
 
-A few resources to get you started if this is your first Flutter project:
+```
+git clone --no-checkout https://github.com/rafsanthegeneral/FlutterProjects.git & cd FlutterProjects &git sparse-checkout init --cone & git sparse-checkout set AdmobProject & git checkout
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```
