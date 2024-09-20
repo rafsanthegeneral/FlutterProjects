@@ -30,7 +30,10 @@ Thats all . Now setup all in your windows Environment (Flutter SDK  & sdkmanager
 
 Then you have to Download some tools using sdkmanager.
 <h3>Download  Platfrom tools using sdkmanager </h3>
-``` sdkmanager --install "platform-tools" "build-tools;30.0.3" ```
+
+``` sdkmanager --install "platform-tools" "build-tools;30.0.3" 
+
+```
 
 ### Linux
 
