@@ -26,11 +26,11 @@ Then downloads Command line tools frome
 - [Windows Command Line Tools](https://dl.google.com/android/repository/commandlinetools-win-11076708_latest.zip)
 - [ALl Version Command Line tools ](https://developer.android.com/studio)
 
-Thats all . now setup all in your windows Environment (Flutter SDK  & sdkmanager tools From commandlinetools ) Variable and use Throw Command line . if you need help go search some youtube tutorial about how can setup those things.
+Thats all . Now setup all in your windows Environment (Flutter SDK  & sdkmanager tools From commandlinetools ) Variable and use Throw Command line . if you need help go search some youtube tutorial about how can setup those things.
 
 Then you have to Download some tools using sdkmanager.
 <h3>Download  Platfrom tools using sdkmanager </h3>
-
+``` sdkmanager --install "platform-tools" "build-tools;30.0.3" ```
 
 ### Linux
 
