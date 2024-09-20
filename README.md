@@ -56,7 +56,7 @@ Then downloads Command line tools frome
 
 Then Setup Environment Variable for SDK manager 
 ```
-mouepad ~/.bashrc 
+mousepad ~/.bashrc 
 ```
 Then where  You Download sdkmanager there bin folder include that open file 
 
