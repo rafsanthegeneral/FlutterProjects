@@ -43,6 +43,7 @@ sdkmanager --licenses
 Then Link adb.exe from platfrom-tools folder inside sdkmanager folder to Environment Variable. (That will Nesessary if you using your Phone as a Emulator via adb )
 
 <h1>Linux</h1>
+
 ## Installation Instructions
 
 If you are using Linux, download the following for Java environment setup:
