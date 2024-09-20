@@ -45,5 +45,5 @@ sdkmanager --licenses
 sdkmanager --update
 ```
 
-### Linux
+<h1>Linux</h1>
 
