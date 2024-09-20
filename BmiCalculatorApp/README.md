@@ -1,16 +1,11 @@
-# test_app
+<h3>A BMI Calculator </h3>
 
-A new Flutter project.
+This is a BMI Calculator using Flutter 
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+If you wanna try this project 
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```
+git clone --no-checkout https://github.com/rafsanthegeneral/FlutterProjects.git && cd FlutterProjects && git sparse-checkout init --cone && git sparse-checkout set BmiCalculatorApp && git checkout
+```
