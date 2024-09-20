@@ -74,4 +74,32 @@ sdkmanager --install "platform-tools" "build-tools;30.0.3"
 ```
 sdkmanager --licenses
 ```
+Then You can Link adb from platfrom-tools folder inside sdkmanager folder to Environment Variable. (That will Nesessary if you using your Phone as a Emulator via adb )
 
+### After  Installation
+
+Check Every think Are okey 
+
+```
+Flutter doctor
+```
+
+The response Like
+
+```
+Doctor summary (to see all details, run flutter doctor -v):
+[✓] Flutter (Channel stable, 3.22.2, on Ubuntu 24.04.1 LTS 6.8.0-45-generic, locale en_US.UTF-8)
+[!] Android toolchain - develop for Android devices (Android SDK version 30.0.3)
+    ✗ Android license status unknown.
+      Run `flutter doctor --android-licenses` to accept the SDK licenses.
+      See https://flutter.dev/docs/get-started/install/linux#android-setup for more details.
+[✓] Chrome - develop for the web
+[✓] Linux toolchain - develop for Linux desktop
+[!] Android Studio (not installed)
+[✓] VS Code (version 1.93.1)
+[✓] Connected device (2 available)
+[✓] Network resources
+
+```
+
+That say you , ready to go for make something big with Flutter 
