@@ -46,4 +46,23 @@ sdkmanager --update
 ```
 
 <h1>Linux</h1>
+## Installation Instructions
+
+If you are using Linux, download the following for Java environment setup:
+```
+sudo apt install  openjdk-21-jdk openjdk-8-jre  
+```
+Then downloads Command line tools frome 
+
+- [Windows Command Line Tools](https://dl.google.com/android/repository/commandlinetools-linux-11076708_latest.zip)
+
+Then Setup Environment Variable for SDK manager 
+```
+mouepad ~/.bashrc 
+```
+Then where  You Download sdkmanager there bin folder include that open file 
+
+```
+export PATH=$PATH:/pathToCmdlineTools/tools/bin/
+```
 
