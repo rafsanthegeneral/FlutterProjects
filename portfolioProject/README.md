@@ -1,16 +1,13 @@
-# portfolioapp
+<h1> A portfolio App </h1>
 
-A new Flutter project.
+This is A portfolio app by me 
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+If you want to install and use my this app then ,
 
-A few resources to get you started if this is your first Flutter project:
+```
+git clone --no-checkout https://github.com/rafsanthegeneral/FlutterProjects.git && cd FlutterProjects && git sparse-checkout init --cone && git sparse-checkout set portfolioProject && git checkout
+```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
