@@ -1,16 +1,18 @@
-# test_app
+<h1>CURD Operation  FLutter Project Using Firebase Databases</h1>
 
-A new Flutter project.
+This is my simple CURD Project  By Flutter using Firebase Project
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+If you try this Project 
 
-A few resources to get you started if this is your first Flutter project:
+```
+git clone --no-checkout https://github.com/rafsanthegeneral/FlutterProjects.git && cd FlutterProjects && git sparse-checkout init --cone && git sparse-checkout set SimpleCurdOperation && git checkout
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+```
+Get Update Of this Project 
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```
+git pull
+```
+Thank you
