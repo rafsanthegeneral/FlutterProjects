@@ -1,9 +1,18 @@
 
 ![Flutter All Project ](https://cdn.prod.website-files.com/5f841209f4e71b2d70034471/60bb4a2e143f632da3e56aea_Flutter%20app%20development%20(2).png)
 
-# Quick Start 
+# My Flutter Projects
 
-![Hello Word ](<img hight="100" width="300" src="https://steemitimages.com/DQmbaedeTrFuED61jDHAqmZRv2VeX3tWA6pyBi4zoR5T26o/helloworld.gif"/>)
+This is my all Flutter project. You can install Flutter on your Windows or Linux systems as follows:
 
-<h1>Hello wordl</h1>
-Hello word !!! This is my Flutter Work and i am try to being better in flutter and cross Platform app development .  
+## Installation Instructions
+
+### Windows
+
+If you are using Windows, download the following for Java environment setup:
+
+- [Java Version 20](https://download.oracle.com/java/20/archive/jdk-20.0.2_windows-x64_bin.exe)
+- [Java 8u211](https://www.oracle.com/java/technologies/javase/javase8u211-later-archive-downloads.html#license-lightbox) (You must create an account to download this version)
+
+### Linux
+
