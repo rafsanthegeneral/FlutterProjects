@@ -10,3 +10,10 @@ If you Try my this project . You can simply Download my project
 git clone --no-checkout https://github.com/rafsanthegeneral/FlutterProjects.git && cd FlutterProjects && git sparse-checkout init --cone && git sparse-checkout set AdmobProject && git checkout
 
 ```
+If you want see any update of my project, Simply Run this command 
+
+```
+git pull
+'''
+
+
