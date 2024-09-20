@@ -23,7 +23,7 @@ Download Futter SDK
 
 Then downloads Command line tools frome 
 
-- [Linux Command Line Tools](https://dl.google.com/android/repository/commandlinetools-win-11076708_latest.zip)
+- [Windows Command Line Tools](https://dl.google.com/android/repository/commandlinetools-win-11076708_latest.zip)
 - [ALl Version Command Line tools ](https://developer.android.com/studio)
 
 Thats all . Now setup all in your windows Environment (Flutter SDK  & sdkmanager tools From commandlinetools ) Variable and use Throw Command line . if you need help go search some youtube tutorial about how can setup those things.
@@ -52,7 +52,7 @@ sudo apt install  openjdk-21-jdk openjdk-8-jre
 ```
 Then downloads Command line tools frome 
 
-- [Windows Command Line Tools](https://dl.google.com/android/repository/commandlinetools-linux-11076708_latest.zip)
+- [Linux Command Line Tools](https://dl.google.com/android/repository/commandlinetools-linux-11076708_latest.zip)
 
 Then Setup Environment Variable for SDK manager 
 ```
