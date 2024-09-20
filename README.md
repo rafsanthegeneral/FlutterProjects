@@ -23,7 +23,7 @@ Download Futter SDK
 
 Then downloads Command line tools frome 
 
-- [Windows Command Line Tools](https://dl.google.com/android/repository/commandlinetools-win-11076708_latest.zip)
+- [Linux Command Line Tools](https://dl.google.com/android/repository/commandlinetools-win-11076708_latest.zip)
 - [ALl Version Command Line tools ](https://developer.android.com/studio)
 
 Thats all . Now setup all in your windows Environment (Flutter SDK  & sdkmanager tools From commandlinetools ) Variable and use Throw Command line . if you need help go search some youtube tutorial about how can setup those things.
@@ -39,11 +39,8 @@ sdkmanager --install "platform-tools" "build-tools;30.0.3"
 ```
 sdkmanager --licenses
 ```
-<h3>Update Sdkmanager if need </h3>
 
-```
-sdkmanager --update
-```
+Then Link adb.exe from platfrom-tools folder inside sdkmanager folder to Environment Variable. (That will Nesessary if you using your Phone as a Emulator via adb )
 
 <h1>Linux</h1>
 ## Installation Instructions
@@ -64,5 +61,16 @@ Then where  You Download sdkmanager there bin folder include that open file
 
 ```
 export PATH=$PATH:/pathToCmdlineTools/tools/bin/
+```
+
+<h3>Download  Platfrom tools using sdkmanager </h3>
+
+```
+sdkmanager --install "platform-tools" "build-tools;30.0.3" 
+```
+<h3>Accept Licence </h3>
+
+```
+sdkmanager --licenses
 ```
 
