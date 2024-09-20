@@ -21,5 +21,13 @@ Download Futter SDK
 
  (Or search letest Flutter Version from (There)[https://docs.flutter.dev/get-started/install/windows/mobile])
 
+Then downloads Command line tools frome 
+
+- [Windows Command Line Tools](https://dl.google.com/android/repository/commandlinetools-win-11076708_latest.zip)
+- [ALl Version Command Line tools ](https://developer.android.com/studio)
+
+Thats all . now setup all in your windows Environment Variable and use Throw Command line .
+
+
 ### Linux
 
