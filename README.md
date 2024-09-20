@@ -33,7 +33,6 @@ Then you have to Download some tools using sdkmanager.
 
 ```
 sdkmanager --install "platform-tools" "build-tools;30.0.3" 
-
 ```
 
 ### Linux
