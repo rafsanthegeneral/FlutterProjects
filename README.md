@@ -34,6 +34,16 @@ Then you have to Download some tools using sdkmanager.
 ```
 sdkmanager --install "platform-tools" "build-tools;30.0.3" 
 ```
+<h3>Accept Licence </h3>
+
+```
+sdkmanager --licenses
+```
+<h3>Update Sdkmanager if need </h3>
+
+```
+sdkmanager --update
+```
 
 ### Linux
 
