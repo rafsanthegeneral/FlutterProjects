@@ -15,10 +15,9 @@ void main() {
       '/project': (context) => const MyProject(),
       '/': (context) => const MyHome(),
       '/about': (context) => const MyApp(),
-      '/aboutus':(context) => const AboutUs(),
-      '/clientsatisfied':(context) => const ClientSatisfied(),
-      '/homedelivary':(context) => const HomeDelivary()
-
+      '/aboutus': (context) => const AboutUs(),
+      '/clientsatisfied': (context) => const ClientSatisfied(),
+      '/homedelivary': (context) => const HomeDelivary()
     },
   ));
 }
@@ -97,7 +96,7 @@ class _MyAppState extends State<MyApp> {
                       onPressed: () {},
                       child: Text('Hire Me'),
                       style: TextButton.styleFrom(
-                        primary: Colors.black,
+                        foregroundColor: Colors.black,
                         backgroundColor: Colors.white, // Background Color
                       ),
                     ),
