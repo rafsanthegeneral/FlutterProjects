@@ -16,7 +16,10 @@ If you are using Windows, download the following for Java environment setup:
 
 After Setup Java environment,Time to setup your flutter 
 Download Futter SDK 
--[Flutter SDK](https://storage.googleapis.com/flutter_infra_release/releases/stable/windows/flutter_windows_3.24.3-stable.zip)(Or search letest Flutter Version from (There)[https://docs.flutter.dev/get-started/install/windows/mobile])
+
+-[Flutter SDK](https://storage.googleapis.com/flutter_infra_release/releases/stable/windows/flutter_windows_3.24.3-stable.zip)
+
+ (Or search letest Flutter Version from (There)[https://docs.flutter.dev/get-started/install/windows/mobile])
 
 ### Linux
 
