@@ -1,16 +1,14 @@
-# project
 
-A new Flutter project.
+## AI Based CCTV Project Control App
 
-## Getting Started
+Hello !!! Herer is a under develop a app which main project into <a href='https://github.com/rafsanthegeneral/PythonProjects/tree/main/Ai%20projects/AiBaseCCTVCamProject'>This Repo</a> . You can download and install this python project on your PC Then that app will work 
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Installation
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Basic Flutter Install you can see on that repo. After install flutter project then you can just login with your firebase cli  and do work. How can you install firebase cli then you can follow <a href='https://firebase.flutter.dev/docs/cli/'>this documentation </a> .
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```bash
+  firebase-cli login
+```
+After Successfully Login then you configure your firebase database .
