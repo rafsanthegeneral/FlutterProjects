@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "186797081014",
+    "firebase_url": "https://kimsirproject-default-rtdb.firebaseio.com",
+    "project_id": "kimsirproject",
+    "storage_bucket": "kimsirproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:186797081014:android:eaf7b8069dededccb30117",
+        "android_client_info": {
+          "package_name": "com.example.kimproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "186797081014-ldfv42apf4qgdfbhtj07q3pb0t5i3c5e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALZpJoYdJMpi_RIpkRXHmGqIy0Nev5f0M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "186797081014-ldfv42apf4qgdfbhtj07q3pb0t5i3c5e.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "186797081014-pa8pc42r2hp1avmg4dr8vgfaj1jgggdg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.kimproject"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
