@@ -1,7 +1,7 @@
 
 ## AI Based CCTV Project Control App
 
-Hello !!! Herer is a under develop a app which main project into <a href='https://github.com/rafsanthegeneral/PythonProjects/tree/main/Ai%20projects/AiBaseCCTVCamProject'>This Repo</a> . You can download and install this python project on your PC Then that app will work 
+Hello !!! Herer is a UnderDevelopment app which main project into <a href='https://github.com/rafsanthegeneral/PythonProjects/tree/main/Ai%20projects/AiBaseCCTVCamProject'>This Repo</a> . You can download and install this python project on your PC Then that app will work 
 
 
 ## Installation
